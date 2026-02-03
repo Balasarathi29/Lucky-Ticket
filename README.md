@@ -136,11 +136,3 @@ The "Lucky Ticket" system is designed with a **"Modern Dark-Premium"** aesthetic
 - **Direction**: Using a grid layout in the user dashboard to guide the eye from "Available" to "Redeem" to "History".
 - **Feedback**: Immediate visual cues using Framer Motion (success pulses, error shakes).
 
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-Built with ❤️ by **Antigravity AI**
