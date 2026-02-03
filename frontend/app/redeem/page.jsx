@@ -318,10 +318,10 @@ export default function RedeemPage() {
 
                 </div>
 
-                {/* Footer Info
+                {/* Footer Info */}
                 <footer className="mt-auto pt-12 text-center text-gray-600 text-[10px] uppercase tracking-[0.3em] font-bold">
                     &copy; {new Date().getFullYear()} Lucky Ticket System &bull; Secure Redemption Portal
-                </footer> */}
+                </footer>
             </div>
         </main>
     );
